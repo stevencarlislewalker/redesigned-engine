@@ -2,7 +2,7 @@
 layout: page
 title: "Page One"
 permalink: /one/
-theme: jekyll-theme-hacker
+theme: hacker
 ---
 
 
