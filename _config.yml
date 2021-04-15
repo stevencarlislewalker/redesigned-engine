@@ -2,5 +2,7 @@ theme: minima
 title: Notebook
 description: Keeping notes
 author: Steve
+github_username:  stevencarlislewalker
+email: steve.walker@utoronto.ca
 gems:
   - jekyll-feed
