@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
 
-{{ site.github.repository_name }}
+This is the name of this test repo -- {{ site.github.repository_name }}
 
 ### Markdown
 
