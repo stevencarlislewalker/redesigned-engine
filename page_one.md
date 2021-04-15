@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Page One"
-permalink: /redesigned-engine/one/
+permalink: /one/
+---
+
 
 # Testing
 
